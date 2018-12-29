@@ -1,4 +1,4 @@
-x=(input("enter a number:"))
+x="thaatha"
 if(x.isnumeric()):
   print("yes")
 else:
