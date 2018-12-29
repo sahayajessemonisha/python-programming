@@ -1,5 +1,5 @@
-x=int(input("enter a number:"))
-y=int(input("enter a number:"))
+x=37
+y=73
 s=x
 x=y
 y=s
