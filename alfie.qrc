@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="x">
+    <file>pu.jpg</file>
+    <file>ai.jpg</file>
+  </qresource>
+</RCC>
